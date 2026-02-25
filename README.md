@@ -193,5 +193,5 @@ This repository contains architecture documentation and representative code snip
 
 ## Related
 
-- [AlterEco Publishing Pipeline](https://github.com/daniszwarc/altereco-pipeline) — document intelligence pipeline using Claude Vision API
+- [AlterEco Publishing Pipeline](https://github.com/daniszwarc/altereco) — document intelligence pipeline using Claude Vision API
 - [WorkflowSynth](https://github.com/daniszwarc/workflowsynth) — MSc research on automated AI workflow discovery
