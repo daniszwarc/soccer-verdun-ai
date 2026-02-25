@@ -52,7 +52,7 @@ Unread Gmail
            ▼
 ┌──────────────────────────────────────────────────────┐
 │            Customer Support AI Agent                 │
-│                   (GPT-4o-mini)                      │
+│                   (GPT-5-MINI)                       │
 │                                                      │
 │  Tools:                                              │
 │  ┌──────────────────────────────────────────────┐    │
@@ -156,8 +156,8 @@ The agent injects subject and emailBody via `$fromAI()`. The draft is created in
 | Component | Technology |
 |---|---|
 | Orchestration | n8n (self-hosted on Hostinger) |
-| LLM — Classifier | GPT-4o-mini (OpenAI) |
-| LLM — Agent | GPT-4o-mini (OpenAI) |
+| LLM — Classifier | GPT-5-MINI (OpenAI) |
+| LLM — Agent | GPT-5-MINI (OpenAI) |
 | Embeddings | text-embedding-3-large (OpenAI) |
 | Vector DB | Pinecone — 2 indexes, 3 namespaces |
 | Email | Gmail API (OAuth2) |
